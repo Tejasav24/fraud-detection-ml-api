@@ -1,16 +1,6 @@
-<<<<<<< HEAD
-fastapi
-uvicorn
-scikit-learn
-numpy
-joblib
-pandas
-=======
 fastapi
 uvicorn
 scikit-learn
 pandas
 numpy
-python-multipart
 joblib
->>>>>>> b3252c445e64725b9ff8f2e690b8bd1b7b184413
