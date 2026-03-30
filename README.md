@@ -39,4 +39,4 @@ uvicorn app:app --reload
 ## API Docs
 
 >>>>>>> b3252c445e64725b9ff8f2e690b8bd1b7b184413
-http://127.0.0.1:8000/docs
+https://fraud-detection-ml-api-3.onrender.com/docs#/
